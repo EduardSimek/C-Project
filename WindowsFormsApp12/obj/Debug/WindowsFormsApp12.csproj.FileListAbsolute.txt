@@ -1,0 +1,271 @@
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\concrt140.dll
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\cvextern.dll
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\msvcp140.dll
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\opencv_videoio_ffmpeg411_64.dll
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\vcruntime140.dll
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\cvextern.lib
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\Emgu.CV.World.dll
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\Emgu.CV.World.xml
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CopyComplete
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\toshiba\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form2.resources
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\concrt140.dll
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\cvextern.dll
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\msvcp140.dll
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\opencv_videoio_ffmpeg411_64.dll
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\vcruntime140.dll
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\cvextern.lib
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\Emgu.CV.World.xml
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form2.resources
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CopyComplete
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+G:\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\concrt140.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\cvextern.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\msvcp140.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\opencv_videoio_ffmpeg411_64.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\vcruntime140.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\cvextern.lib
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\Emgu.CV.World.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\Emgu.CV.World.xml
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form2.resources
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CopyComplete
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.Imaging.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.Math.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.xml
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.Imaging.xml
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.Math.xml
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ZedGraph.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ZedGraph.xml
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ZedGraph.Web.dll
+C:\Users\toshiba\Desktop\Bakalarka\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ZedGraph.Web.xml
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\concrt140.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\cvextern.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\msvcp140.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\opencv_videoio_ffmpeg411_64.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\vcruntime140.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\cvextern.lib
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.xml
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.Imaging.xml
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.Math.xml
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\Emgu.CV.World.xml
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ZedGraph.xml
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ZedGraph.Web.xml
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\de\ZedGraph.resources.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\es\ZedGraph.resources.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\fr\ZedGraph.resources.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\hu\ZedGraph.resources.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\it\ZedGraph.resources.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ja\ZedGraph.resources.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\pt\ZedGraph.resources.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ru\ZedGraph.resources.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\sk\ZedGraph.resources.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\sv\ZedGraph.resources.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\tr\ZedGraph.resources.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+D:\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+D:\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form2.resources
+D:\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+D:\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+D:\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CopyComplete
+D:\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+D:\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\concrt140.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\cvextern.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\msvcp140.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\opencv_videoio_ffmpeg411_64.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\vcruntime140.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\cvextern.lib
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.xml
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.Imaging.xml
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.Math.xml
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\Emgu.CV.World.xml
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ZedGraph.xml
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ZedGraph.Web.xml
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form2.resources
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CopyComplete
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\Eduard Šimek\Desktop\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\concrt140.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\cvextern.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\msvcp140.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\opencv_videoio_ffmpeg411_64.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\vcruntime140.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\cvextern.lib
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.xml
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.Imaging.xml
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.Math.xml
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\Emgu.CV.World.xml
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ZedGraph.xml
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ZedGraph.Web.xml
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form2.resources
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CopyComplete
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\Eduard Šimek\Desktop\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\concrt140.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\cvextern.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\msvcp140.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\opencv_videoio_ffmpeg411_64.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\vcruntime140.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\cvextern.lib
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.Imaging.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.Math.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.xml
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.Imaging.xml
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\AForge.Math.xml
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\Emgu.CV.World.xml
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ZedGraph.xml
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ZedGraph.Web.xml
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\de\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\es\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\fr\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\hu\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\it\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ja\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\pt\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\ru\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\sk\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\sv\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\tr\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\zh-cn\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\zh-tw\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form2.resources
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CopyComplete
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\concrt140.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\cvextern.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\msvcp140.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\opencv_videoio_ffmpeg411_64.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\vcruntime140.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\cvextern.lib
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\AForge.xml
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\AForge.Imaging.xml
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\AForge.Math.xml
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\Emgu.CV.World.xml
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\ZedGraph.xml
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\ZedGraph.Web.xml
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\de\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\es\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\fr\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\hu\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\it\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\ja\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\pt\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\ru\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\sk\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\sv\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\tr\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\zh-cn\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\bin\Debug\zh-tw\ZedGraph.resources.dll
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form2.resources
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CopyComplete
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.AssemblyReference.cache
+H:\biely kluc zo dňa 6.2.2023\BC\WindowsFormsApp12 zmenene\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.SuggestedBindingRedirects.cache
