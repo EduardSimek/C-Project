@@ -13,10 +13,12 @@ The application consists of the next partial steps:
 8. Based on the results of the work, it will be evaluated which library (EmguCV or AForge.NET) processed individual algorithms in a shorter time horizon.
 
 Flow chart from the main conversion input RGB image to the various color models and filters. 
+
 ![image](https://github.com/EduardSimek/C-Project/assets/89217170/66b2a4f4-7f4d-4274-abc8-f4be2acf2ba5)
 
 
 Flow chart, which displays conversion input RGB image to the various colorful filters with the components GroupBox and TrackBar.
+
 ![image](https://github.com/EduardSimek/C-Project/assets/89217170/ea6c5983-c5c5-41d1-9cbc-b1c8103be4ce)
 
 
